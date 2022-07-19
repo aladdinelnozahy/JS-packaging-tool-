@@ -1,0 +1,28 @@
+gulp commands :
+---------------
+npm install gulp-cli –g
+gulp -v
+npm init 
+npm install gulp --save-dev
+npm install gulp-imagemin@7.1.0 -D
+npm install -D gulp-htmlmin
+npm install gulp-concat gulp-terser --save-dev
+npm install gulp-sass gulp-clean-css gulp-concat -D
+npm i -D browser-sync
+
+gulp
+
+---------------------------------------------------
+webpack
+---------
+npm init -y
+npm install webpack webpack-cli webpack-dev-server -D
+npm i -D html-loader style-loader css-loader sass-loader sass file-loader sass
+npm i -D html-webpack-plugin clean-webpack-plugin mini-css-extract-plugin css-minimizer-webpack-plugin
+
+npm i -D imagemin-mozjpeg imagemin-gifsicle imagemin-jpegtran imagemin-optipng imagemin-svgo image-minimizer-webpack-plugin
+
+npx webpack
+
+npx webpack serve
+
